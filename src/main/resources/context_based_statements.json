@@ -1,0 +1,17 @@
+{
+"sentenceRules":{
+    "Hi how are you": [
+        "Hi! How are you today?",
+        "Hello!!",
+        "Ciao!"
+    ],
+    "Goodbye jeff": [
+        "Bye! Have a nice day",
+        "Goodbye, Hope to see you again"
+    ],
+    "What is Jeff App": [
+        "Jeff app provides you the best loan offers only in 2 minutes",
+        "This is an app that gives you the best loan offers only in 2 minutes"
+    ]
+}
+}

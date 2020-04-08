@@ -1,0 +1,27 @@
+{
+  "statements":{
+    "bot_statement_1": {
+      "statement": "Hi there, I'm Jeff \n\nYour new best friend for finding great loan offers! \n\nFirst things first - let's get your account set up \n\nWhat is your first name?",
+      "reservedStatement": "Could you please let me know your first name",
+      "expectations": "FIRST_NAME"
+    },
+    "bot_statement_2": {
+      "statement": "And what is your last name?",
+      "reservedStatement": "Could you please let me know your last name",
+      "expectations": "LAST_NAME"
+    },
+    "bot_statement_3": {
+      "statement": "Nice to meet you, ${FIRST_NAME} ${LAST_NAME}!",
+      "expectations": ""
+    },
+    "bot_statement_4": {
+      "statement": "${FIRST_NAME}, what's your email address?",
+      "expectations": "EMAIL_ADDRESS"
+    },
+    "bot_statement_5": {
+      "statement": "We are almost done, could you please let me know your date of birth?",
+      "expectations": "DOB"
+    }
+
+  }
+}
